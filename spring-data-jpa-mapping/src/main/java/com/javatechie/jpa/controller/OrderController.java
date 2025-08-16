@@ -1,4 +1,4 @@
-package com.tnsif.spring_data_jpa_mapping.controller;
+package com.javatechie.jpa.controller;
 
 import com.javatechie.jpa.dto.OrderRequest;
 import com.javatechie.jpa.dto.OrderResponse;
