@@ -17,7 +17,7 @@ public class Customer {
 
     private String firstName;
     private String lastName;
-    //customer city , contact no, mapping association with the order
+    //customer city , contact no, mapping association with the orderff
 	public Long getId() {
 		return id;
 	}
